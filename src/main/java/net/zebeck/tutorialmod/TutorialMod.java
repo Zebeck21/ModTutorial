@@ -21,8 +21,7 @@ public class TutorialMod
 {
 
     public static final String MODID = "tutorialmod";
-
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
 
     public TutorialMod(FMLJavaModLoadingContext context)
